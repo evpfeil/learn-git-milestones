@@ -279,7 +279,7 @@ Row | Step | Description | Completed
 3 | 3-3 | Link to markdown tables docs | [Markdown tables]([url](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables))
 4 | 3-4 | What does `log` do? | It tracks commits and gives information about them
 5 | 4-1 | 2nd Favorite emoji |  🩵 
-6 | 4-2 | Link to `commit #2 from Github Desktop` |
+6 | 4-2 | Link to `commit #2 from Github Desktop` | [Link didn't work]([url](https://github.com/evpfeil/learn-git-milestones/issues/2))
 7 | 5-1 | Full path to your working directory |
 8 | 5-2 | Link to `commit #3 from CLI` |
 9 | 6-1 | Link to `first-website` github.com repo page |
