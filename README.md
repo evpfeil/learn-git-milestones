@@ -283,7 +283,7 @@ Row | Step | Description | Completed
 7 | 5-1 | Full path to your working directory | evanpfeil@Evans-MBP learn-git-milestones 
 8 | 5-2 | Link to `commit #3 from CLI` | [Link didn't work again??](https://github.com/evpfeil/learn-git-milestones/issues/3)
 9 | 6-1 | Link to `first-website` github.com repo page | [Link](https://github.com/evpfeil/first-website)
-10 | 7-1 | Link to `first-website` github.io "project site" |
+10 | 7-1 | Link to `first-website` github.io "project site" | [Link](https://evpfeil.github.io/first-website/)
 
 
 
