@@ -279,9 +279,9 @@ Row | Step | Description | Completed
 3 | 3-3 | Link to markdown tables docs | [Markdown tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 4 | 3-4 | What does `log` do? | It tracks commits and gives information about them
 5 | 4-1 | 2nd Favorite emoji |   🐦‍⬛  
-6 | 4-2 | Link to `commit #2 from Github Desktop` | [Link didn't work](https://github.com/evpfeil/learn-git-milestones/commit/8e2f3233c475b3670b8ebe8b0837c13db5d3e3af
+6 | 4-2 | Link to `commit #2 from Github Desktop` | [Link](https://github.com/evpfeil/learn-git-milestones/commit/8e2f3233c475b3670b8ebe8b0837c13db5d3e3af
 7 | 5-1 | Full path to your working directory | evanpfeil@Evans-MBP learn-git-milestones
-8 | 5-2 | Link to `commit #3 from CLI` | [Link didn't work again??](https://github.com/evpfeil/learn-git-milestones/issues/3)
+8 | 5-2 | Link to `commit #3 from CLI` | [Link](https://github.com/evpfeil/learn-git-milestones/commit/9747dc7d0a20543a862e6d5457a6d6898cd37e77)
 9 | 6-1 | Link to `first-website` github.com repo page | [Link](https://github.com/evpfeil/first-website)
 10 | 7-1 | Link to `first-website` github.io "project site" | [Link](https://evpfeil.github.io/first-website/)
 
