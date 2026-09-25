@@ -275,7 +275,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Row | Step | Description | Completed
 --- | --- | --- | ---
 1 | 3-1 | 1st Favorite emoji | 😲
-2 | 3-2 | Link to `commit #1 from Github.com` | [Link](https://github.com/evpfeil/learn-git-milestones/commit/cdb04a11cda230be7ad959c91d6f74c3d7f2d35d)
+2 | 3-2 | Link to `commit #1 from Github.com` | [Link](https://github.com/evpfeil/learn-git-milestones/commit/711d999f4fed2d55a34a6c2d96aa74ce770b447b)
 3 | 3-3 | Link to markdown tables docs | [Markdown tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 4 | 3-4 | What does `log` do? | It tracks commits and gives information about them
 5 | 4-1 | 2nd Favorite emoji |   🐦‍⬛  
